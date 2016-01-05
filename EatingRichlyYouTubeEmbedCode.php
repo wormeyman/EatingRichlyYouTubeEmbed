@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: EatingRichly YouTube Embed
-Plugin URI: http://eatingrichly.com/
+Plugin URI: https://github.com/wormeyman/EatingRichlyYouTubeEmbed/
 Description: Responsive YouTube Embed
-Version: 1.0
+Version: 1.0.1
 Author: Eric Johnson
 Author URI: 
 License: MIT
